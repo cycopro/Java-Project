@@ -4,7 +4,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		Metoda1();
-        Metoda2();
+        
 	}
 	public static void Metoda1() {
 		Scanner scanner = new Scanner(System.in);
